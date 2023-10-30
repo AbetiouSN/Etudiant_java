@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="014f6c4b-7f11-4fb4-90ad-3a4a2596e1e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../C++/.idea/C++.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C++/cpp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/Cour-Java-prof.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/Etudiants/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/Etudiants/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/Etudiants/Modules.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/Etudiants/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/TD1/liste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/TD1/personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/TDS/Pesronne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/banque/CompteCredit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/banque/ComptePlacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/banque/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/banque/bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/banque/compte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/banque/personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/banque1/Banque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/banque1/Compte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/banque1/CompteCredit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/banque1/ComptePlacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/banque1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/banque1/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/classes/Connected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/classes/MasteryOfProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/classes/file.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/classes/player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/classes/rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/classes/resultat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/classes/swingdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/compte/Compte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/interfaces/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/interfaces/compareName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/interfaces/personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/interfacetest/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/interfacetest/compareName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/interfacetest/personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cour-Java-prof/src/tableau/Essai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CppProject/Sofiane.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Formation C++/.idea/Formation C++.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abetiou1/.idea/abetiou1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/src/main/java/com/springdemo/helloworld/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/src/test/java/com/springdemo/helloworld/checkHTTPResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iman.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personne/src/main/java/personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/ab.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2XLor2LTaafv0pVM5xTmup4Ti9E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;java__code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Etudiants" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="014f6c4b-7f11-4fb4-90ad-3a4a2596e1e9" name="Changes" comment="" />
+      <created>1698417916808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698417916808</updated>
+      <workItem from="1698417917929" duration="18751000" />
+      <workItem from="1698453891228" duration="957000" />
+      <workItem from="1698532999859" duration="837000" />
+      <workItem from="1698667379981" duration="871000" />
+      <workItem from="1698680229712" duration="84000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
