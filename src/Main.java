@@ -78,8 +78,8 @@ public class Main {
         // etudiants.get(3).ajouterNote(matieres.get(5), 13);
 
         //========= ici pour pour tri les etudiants (10.6 < 11.16 < 11.9 < 16.5)  par moyenne =========
-//        Collections.sort(etudiants,Etudiant.CompareNote);
-//        etudiants.forEach(Etudiant -> System.out.println(" "+Etudiant));
+       Collections.sort(etudiants,Etudiant.CompareNote);
+       etudiants.forEach(Etudiant -> System.out.println(" "+Etudiant));
 
 
         f = new Filier(etudiants,"Genie Informatique ", "GINF");
