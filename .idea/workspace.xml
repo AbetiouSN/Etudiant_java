@@ -64,7 +64,6 @@
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/ab.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/filier/Filier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/filier/Filier.java" afterDir="false" />
     </list>
@@ -140,7 +139,7 @@
       <workItem from="1698680229712" duration="84000" />
       <workItem from="1698789334125" duration="2086000" />
       <workItem from="1698802278391" duration="13000" />
-      <workItem from="1699009574290" duration="364000" />
+      <workItem from="1699009574290" duration="673000" />
     </task>
     <servers />
   </component>

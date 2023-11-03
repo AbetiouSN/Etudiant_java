@@ -48,10 +48,10 @@ public class Filier {
     @Override
     public String toString() {
         return "Filier{" +
-                "etudiants=" + etudiants +
+                "etudiants=" + etudiants +'\n' +
                 ", nom='" + nom + '\'' +
                 ", code='" + code + '\'' +
-                ", nb_etu=" + nb_etu +
+                ", nb_etu=" + nb_etu +'\n' +
                 '}';
     }
 }

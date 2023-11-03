@@ -81,9 +81,9 @@ public class Main {
        Collections.sort(etudiants,Etudiant.CompareNote);
        etudiants.forEach(Etudiant -> System.out.println(" "+Etudiant));
 
-
+        System.out.println("    <===============================> ");
         f = new Filier(etudiants,"Genie Informatique ", "GINF");
-        System.out.println(f);
+        System.err.println(f);
         /*
        < il y a une class Note pour enregistrer directement les notes(chaque note a 1 matiere et 1 etidiant)>
         notes.add(new Note(matieres.get(0),etudiant,18));
