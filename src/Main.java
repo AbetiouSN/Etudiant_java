@@ -1,6 +1,7 @@
 import Etudiant.Etudiant;
 import Etudiant.Matiere;
 import Etudiant.Note;
+import filier.Filier;
 
 import java.util.*;
 
@@ -12,6 +13,7 @@ public class Main {
         List<Etudiant> etudiants = new ArrayList<Etudiant>();
         List<Matiere> matieres   = new ArrayList<Matiere>();
         List<Note> notes = new ArrayList<>();
+        Filier f;
         System.out.println("Hello world!");
 
         matieres.add(new Matiere("ANALYSE1", "ANL1"));
@@ -76,10 +78,12 @@ public class Main {
         // etudiants.get(3).ajouterNote(matieres.get(5), 13);
 
         //========= ici pour pour tri les etudiants (10.6 < 11.16 < 11.9 < 16.5)  par moyenne =========
-        Collections.sort(etudiants,Etudiant.CompareNote);
-        etudiants.forEach(Etudiant -> System.out.println(" "+Etudiant));
+//        Collections.sort(etudiants,Etudiant.CompareNote);
+//        etudiants.forEach(Etudiant -> System.out.println(" "+Etudiant));
 
 
+        f = new Filier(etudiants,"Genie Informatique ", "GINF");
+        System.out.println(f);
         /*
        < il y a une class Note pour enregistrer directement les notes(chaque note a 1 matiere et 1 etidiant)>
         notes.add(new Note(matieres.get(0),etudiant,18));
